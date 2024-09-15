@@ -113,7 +113,7 @@ li{
     margin-top: 160px;
 }
 
-.section_2  .text_box h3{
+.section_2  .text_box h1{
     font-size: 48px;
     /* font-family: 'Pretendard-Bold'; */
     font-weight: 900;
@@ -185,14 +185,14 @@ li{
 
 .section_3 .item3 .item_wrap3 h6{
     /* font-family: 'Pretendard-SemiBold'; */
-    font-weight: 800;
+    font-weight: 400;
     font-size: 20px;
     margin-bottom: 16px;
     color: #9d1e34;
     font-weight: 800;
 }
 
-.section_3 .item3 .item_wrap3 h2{
+.section_3 .item3 .item_wrap3 h1{
     /* font-family: 'Pretendard-Bold'; */
     font-weight: 900;
     font-size: 48px;
@@ -207,6 +207,7 @@ li{
     /* font-family: 'Pretendard-Regular'; */
     font-weight: 100;
     margin-bottom: 60px;
+    line-height: 1.5;
     display: block;
 }
 
@@ -215,7 +216,7 @@ li{
     background-color: #ffffff;
     width: 220px;
     height: 50px;
-    border: 1px solid #222222;
+    border: 1px solid #555555;
     line-height: 50px;
     text-align: center;
     border-radius: 22.5px;
